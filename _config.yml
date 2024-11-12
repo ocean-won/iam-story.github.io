@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: IAM Story
-description: IAM 보안에 대해 얘기합니다.
+description: IAM (Identity & Access Management)에 대해 얘기합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ocean-won.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
